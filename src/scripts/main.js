@@ -15,6 +15,10 @@
     // console.log(`visitDate: ${drBill[dateVisited]}, amount billed: ${drBill[owed]}, and patient was ${drBill[patient]}`)
     // const billValues = Object.values(drBill);
     // console.log("bill values", billValues);
+
+    // ***do other lightning exercises from dr portion here****
+    
+    
     // const outputElement = document.getElementById("app")
     // outputElement.innerHTML += `<span>${drBill[dateVisited]}</span>
     //                             <span>${drBill[owed]}</span>
