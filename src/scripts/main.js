@@ -9,7 +9,7 @@
     //     doctorName: "Mark Conden",
     //     patientName: "John Long",
     //     visitDate: "10-01-2019",
-    //     amountBilled: "129.99",
+    //     amountBilled: 129.99,
     //     dueDate: "11-01-2019"
     // }
     // console.log(`visitDate: ${drBill[dateVisited]}, amount billed: ${drBill[owed]}, and patient was ${drBill[patient]}`)
